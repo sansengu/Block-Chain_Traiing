@@ -1,0 +1,78 @@
+bit coin, Lehman Brothers 2008, ledger manipulation, trust on centralized banking system,
+
+Bit coin also tried to create a decentralised n/w of financial institutions.
+
+World is flat -- book,
+
+Intermedediaries that never contribute in values but levies charges being internediaries. Bit coin block chain is intended to remove the intermediaries that do not contribute in creating value.
+
+change in contract is slower than in transaction / ledger.
+
+Fraudulant entity can not survive if they try to put fraud data first time into the block chain, they will be fished out of the n/w in due course of time by other parties as
+fraudilant entity does have control to make fraud itself however they do not have complete
+control over all their participants, with which they have engaged into fraudulant transactions,
+to restrict them in participating onto the block chain. 
+
+Once all the parties take part the fraudulant entity will be eventually idetified and thrown out of block chain as because nobody can tamper the block chain.
+
+Solution - shared, replicated, permissioned ledger that incorporates Consensus, provenance, immutability, finality among all the decentralized parties.
+
+Hyper ledger needs Linux as bare minimum.
+
+practical bizantine fault tolerant algorithm is applicable for consensus of parties and cover for faulty member.
+
+Not very good for real time.
+
+Optimize the data volume for ledger by storing reference and not the whole set of data.
+
+q) Can participant have disparate number of ledger ? any specific use case ?
+
+Order of transaction is very important to make right for achieving data consistency. This is ensured through consensus.
+
+
+
+
+
+Consensus happens at fabric level and looks into timing and entry of transaction submission and sequence them.
+
+PBFT - practical bizantine fault tolerant algorithm.
+
+Smart contract -- is similar to stored procedure. IBM term chain code.
+
+Deep Industry business knowledge is required for working on Block Chain. (Start up prime chain)
+
+Retail banking - Cross border remittence, mortgage verification & Contrct.
+
+Ideal block chain use case where trust is not there without block chain.
+
+HyperLedger fabric - IBM can build wrapper around that.
+
+Smart Contract would be written by developer and events will be emitted for whichever application would need to be subscribed.
+
+
+
+Fabric events need not be written by developers , it is out of the box from Block Chain. It can generate events.
+
+http://gobyexample.com
+
+
+1) install git
+
+2) Create account @ github.com (non- IBM)
+
+3)Install Vagrant (hardware virtualization)
+
+A Language platform
+
+Go Lang, Node.js
+
+B Virtualization
+
+Docker
+
+Vagrant
+
+C Version Control 
+
+Git.
+
